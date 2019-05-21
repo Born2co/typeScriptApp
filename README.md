@@ -4,3 +4,8 @@ open terminal >npm init
 
 >tsc --init
 (Successfully created a tsconfig.json file.)
+create src folder 
+ "rootDir": "./src",-> in tsconfig.json 
+ 
+ create out folder 
+ "outDir": "./out", 
